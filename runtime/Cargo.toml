@@ -7,7 +7,7 @@ edition = "2018"
 
 [dependencies]
 async-std = { version = "=1.9.0", features = ["attributes"] }
-zenoh-flow = { git = "https://github.com/eclipse-zenoh/zenoh-flow.git", branch = "master" }
+zenoh-flow = { git = "https://github.com/autocore-ai/zenoh-flow.git", branch = "autocore-dev" }
 zenoh = { git = "https://github.com/eclipse-zenoh/zenoh.git", branch = "master"}
 structopt = "0.3.21"
 log = "0.4"
